@@ -2,6 +2,8 @@ package w14;
 
 
 public class Game {
+	int change;
+
 	private Parser parser;
 	private Room currentRoom;
 
